@@ -6,8 +6,8 @@ I like working across the stack — from designing the UI to implementing backen
 
 
 ## 🌱 These days I’m focused on:
-- React, Next.js, HTML5, CSS3/Tailwind CSS.
-- Node.js, Next.js API Routes.
+- React, Next.js, TypeScript, HTML5, CSS3.
+- Node.js (Next.js API Routes).
 - REST APIs.
 - Learning AI Automation. 
 - Improving backend architecture patterns.
