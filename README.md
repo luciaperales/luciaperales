@@ -4,7 +4,8 @@ I enjoy creating scalable solutions, writing clean code, and designing user-frie
 
 I like working across the stack — from designing the UI to implementing backend logic and connecting databases.
 
-🌱 These days I’m focused on:
+
+## 🌱 These days I’m focused on:
 - React, Next.js, HTML5, CSS3/Tailwind CSS.
 - Node.js, Next.js API Routes.
 - REST APIs.
